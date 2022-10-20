@@ -6,7 +6,7 @@ This calculator was designed to replicate the calculator UI presented in our cla
 <img src="Screen Shot 2022-10-20 at 12.46.05 PM.png" />
 
 
-**Below is a gif to demonstrate the output of the program:**  
+**Below is a gif to demonstrate the output of my program:**  
   
   
 <p align="center">
